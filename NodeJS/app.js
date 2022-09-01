@@ -11,3 +11,6 @@ function mul(number) {
 }
 
 console.log(mul(10));
+
+const square2 = require("./multi")
+console.log(square2(5));
