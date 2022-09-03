@@ -17,5 +17,8 @@ const sub2 = require("./sub");
 const divide2 = require("./sub");
 const add2 = require("./sub");
 
+console.log(sub2(55, 22));
+console.log(divide2(25, 5));
+console.log(add2(33, 98));
 
 console.log(square2(5));
